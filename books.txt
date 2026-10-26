@@ -1,2 +1,2 @@
-GHA 123 4.50
-Computer_Fun 2345 25.20
+Introduction_To_Geography    1234    72.45
+Computer_Fun                 2345    25.20
